@@ -1,0 +1,7 @@
+2026-11-23T09:01:00Z WS-01 Security 4625 Failure Audit: An account failed to log on. Account: admin Source: 203.0.113.10
+2026-11-23T09:01:30Z WS-01 Security 4625 Failure Audit: An account failed to log on. Account: admin Source: 203.0.113.10
+2026-11-23T09:02:00Z WS-01 Security 4625 Failure Audit: An account failed to log on. Account: admin Source: 203.0.113.10
+2026-11-23T09:02:30Z WS-01 Security 4625 Failure Audit: An account failed to log on. Account: admin Source: 203.0.113.10
+2026-11-23T09:03:00Z WS-01 Security 4625 Failure Audit: An account failed to log on. Account: admin Source: 203.0.113.10
+2026-11-23T09:04:00Z WS-01 Security 4624 Success Audit: An account was successfully logged on. Account: admin Source: 203.0.113.10
+2026-11-23T09:05:00Z WS-02 Security 4624 Success Audit: An account was successfully logged on. Account: haseem Source: 192.0.2.5

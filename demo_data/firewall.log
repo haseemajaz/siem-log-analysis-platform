@@ -1,0 +1,8 @@
+2026-11-23T09:01:05Z fw-01 DENY src=203.0.113.10 dst=10.0.0.5 dport=22 proto=TCP
+2026-11-23T09:01:35Z fw-01 DENY src=203.0.113.10 dst=10.0.0.5 dport=22 proto=TCP
+2026-11-23T09:02:05Z fw-01 DENY src=203.0.113.10 dst=10.0.0.5 dport=3389 proto=TCP
+2026-11-23T09:02:35Z fw-01 DENY src=203.0.113.10 dst=10.0.0.5 dport=445 proto=TCP
+2026-11-23T09:03:05Z fw-01 DENY src=203.0.113.10 dst=10.0.0.5 dport=22 proto=TCP
+2026-11-23T09:03:35Z fw-01 DENY src=203.0.113.10 dst=10.0.0.5 dport=22 proto=TCP
+2026-11-23T09:04:05Z fw-01 ALLOW src=203.0.113.10 dst=10.0.0.5 dport=443 proto=TCP
+2026-11-23T09:05:05Z fw-01 ALLOW src=192.0.2.5 dst=10.0.0.5 dport=443 proto=TCP
